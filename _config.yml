@@ -8,22 +8,22 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Johnny Hopkins
-description: "Hi I'm Johnny, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Henry Gantz
+description: "Hi, I'm Henry, and I'm a VT mathematics graduate.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on ML and data science applications. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
-resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+location: "Arlington, VA"
+resume_url: /docs/Henry Gantz Resume.pdf
+avatar_image: /img/Profile Photo (2).jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "www.linkedin.com/in/henry-gantz-077a013a6" 
+github: "https://github.com/henryg-dsi"  
 
 paginate: 6
 paginate_path: "/page/:num"
